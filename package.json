@@ -1,0 +1,19 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@fullcalendar/core": "^5.4.0",
+    "@fullcalendar/daygrid": "^5.4.0",
+    "@fullcalendar/vue": "^5.4.0",
+    "v-calendar": "^2.1.2",
+    "vue-cal": "^3.9.0"
+  }
+}
